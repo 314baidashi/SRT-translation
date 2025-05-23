@@ -1,0 +1,3 @@
+srt
+argostranslate
+tkinterdnd2
