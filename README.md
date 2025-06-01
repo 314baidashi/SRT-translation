@@ -6,11 +6,13 @@
 ## 下载链接
 [点击此处下载最新版exe安装包（157MB）](https://download.csdn.net/download/weixin_45826970/90890917?spm=1001.2014.3001.5503)
 
-为了帮大家节省时间，我帮大家把需要魔法下载的生成有声字幕引擎和英文base模型打包到下方，可以一起下载（两个文件分别对应PotPlayer根目录的两个同名文件夹，直接拖入替换即可，注意我的引擎基于英伟达显卡，如果你的电脑不是请自己找其他版本）
+为了帮大家节省时间，我帮大家把生成有声字幕引擎和模型下载方式提供到下方，可以一起下载（对应文件夹到PotPlayer生成有声字幕设置窗口查询，直接拖入替换即可，注意我的引擎基于英伟达显卡，如果你的电脑不是请自己找其他版本）
 
 [CUDA版引擎百度云](https://pan.baidu.com/s/1tiQN_B3AnomAAp_Efv18DA?pwd=wr3b)
 
-[英文识别base模型百度云](https://pan.baidu.com/s/166IBw-ygfWi3xUpopTL-WA?pwd=pknu)
+[识别模型HuggingFace下载](https://huggingface.co/ggerganov/whisper.cpp/tree/main)
+
+[识别模型魔塔社区下载](https://modelscope.cn/models/timeless/whispercpp/files?version=master)
 
 ## 注意事项
 - 模型文件已经尽可能小，但还是需要一点时间加载，耐心等待。
