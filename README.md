@@ -4,7 +4,9 @@
 本工具是一款基于Python开发的SRT字幕文件翻译工具，您可以和potplayer生成有声字幕协同使用，支持通过拖放操作快速导入SRT文件，并提供多语言互译功能，可以从日、韩、英译中，日、韩译英。翻译完成后自动生成对应语言后缀的目标语言字幕文件，方便播放器自动读取。
 
 ## 下载链接
-[点击此处下载最新版exe安装包（157MB）](https://download.csdn.net/download/weixin_45826970/90890917?spm=1001.2014.3001.5503)
+
+当前1.3版本更新了未响应优化处理；
+[点击此处下载最新版exe安装包（157MB百度网盘）](https://pan.baidu.com/s/1VVLw6vzMs1Z2IFo99pFliw?pwd=f2yg)
 
 [强烈推荐！！！点击此处进入2.0本地AI翻译版本](https://github.com/314baidashi/srt-Trans2.0)
 
@@ -33,5 +35,6 @@
 
 ### 翻译效果
 ![目标语言](img/zh.png)
+
 
 
