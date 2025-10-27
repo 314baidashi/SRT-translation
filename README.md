@@ -6,7 +6,8 @@
 ## 下载链接
 
 当前1.3版本更新了未响应优化处理；
-[点击此处下载最新版exe安装包（157MB百度网盘）](https://pan.baidu.com/s/1VVLw6vzMs1Z2IFo99pFliw?pwd=f2yg)
+
+[点击此处下载最新版exe安装包（157MB-百度网盘）](https://pan.baidu.com/s/1quidFK9-UULF-7TIG3Rawg?pwd=vkji)
 
 [强烈推荐！！！点击此处进入2.0本地AI翻译版本](https://github.com/314baidashi/srt-Trans2.0)
 
@@ -35,6 +36,7 @@
 
 ### 翻译效果
 ![目标语言](img/zh.png)
+
 
 
 
